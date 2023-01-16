@@ -2,7 +2,7 @@
 
 Sou desenvolvedor Junior Front-End, e estou em busca de minha primeira oportunidade no mercado de tecnologia. No momento estou em formação Full-Stack na Kenzie Academy Brasil.
 
-![Junior Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorSantos05&show_icons=true&theme=dracula)
+![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorSantos05&show_icons=true&)
 
 ## Tecnologias 🛠️
 
